@@ -1,7 +1,5 @@
 # spring-github-acr-repo
 Project with Spring Github and Azure Container Registry
 
-This is Menouer Test
-
-Updated today Sunday 22. January 23 on 10:41
+My new commit after resetting all: Sunday 22. Januar 23
 
